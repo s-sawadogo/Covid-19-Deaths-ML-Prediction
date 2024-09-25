@@ -12,3 +12,6 @@
 - Daily Confirmed: the daily confirmed cases of Covid-19;
 - Daily Deceased: the daily deaths due to Covid-19.
 
+#### Dataset link
+
+[Find the dataset here](https://raw.githubusercontent.com/amankharwal/Website-data/master/COVID19%20data%20for%20overall%20INDIA.csv)
